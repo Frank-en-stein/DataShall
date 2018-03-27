@@ -1,4 +1,5 @@
 # DataShall Assignment Part 1
+##### Complete repository (including part 2): https://github.com/Frank-en-stein/DataShall
 ## 1-(i)
 > minimize: 60x0 + 40x1 + 50x2
 > Subject to: -20x0 - 10x1 - 10x2 <= -350
